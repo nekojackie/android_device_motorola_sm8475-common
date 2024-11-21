@@ -568,5 +568,13 @@
             <instance>default</instance>
         </interface>
     </hal>
+    <hal format="hidl" optional="true">
+        <name>vendor.zui.hardware.ifaa</name>
+        <version>1.0</version>
+        <interface>
+            <name>IIFAADevice</name>
+            <instance>default</instance>
+        </interface>
+    </hal>
     <kernel target-level="6"/>
 </manifest>
