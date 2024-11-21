@@ -1198,12 +1198,3 @@ vendor/lib64/libwvhidl.so
 vendor/bin/cnss-daemon
 vendor/etc/init/init.vendor.wlan.rc
 
-# Soter
-vendor/etc/init/vendor.qti.hardware.soter@1.0-service.rc
-vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so
-vendor/lib64/vendor.qti.hardware.soter@1.0.so
-vendor/lib/libsotertool.so
-vendor/lib/hw/vendor.qti.hardware.soter@1.0-impl.so
-vendor/lib/vendor.qti.hardware.soter@1.0.so
-vendor/bin/vendor.qti.hardware.soter@1.0-provision
-vendor/bin/hw/vendor.qti.hardware.soter@1.0-service
